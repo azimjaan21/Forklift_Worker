@@ -129,7 +129,7 @@ forklift-worker-safety-monitoring/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/forklift-worker-safety-monitoring.git
+git clone https://github.com/azimjaan21/Forklift_Worker.git
 cd forklift-worker-safety-monitoring
 ```
 
