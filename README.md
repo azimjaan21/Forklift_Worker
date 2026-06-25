@@ -14,13 +14,17 @@ This project detects forklifts and workers in industrial environments, estimates
 
 ### Example Output
 
-![Forklift Worker Safety Demo](assets/demo_image.png)
+<p align="center">
+  <img src="assets/demo_image.png" alt="Forklift Worker Safety Demo" width="500">
+</p>
 
 ### Demo GIF
 
-![Demo GIF](assets/demo.gif)
+<p align="center">
+  <img src="assets/demo.gif" alt="Demo GIF" width="500">
+</p>
 
-> Put your exported GIF or video preview inside the `assets/` folder.
+
 
 ---
 
