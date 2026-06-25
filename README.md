@@ -271,18 +271,6 @@ Status: WARNING
 
 ---
 
-## 🧪 Future Improvements
-
-* [ ] Use homography for real-world distance estimation in meters
-* [ ] Add multi-camera support
-* [ ] Add worker tracking ID with ByteTrack or DeepSORT
-* [ ] Add restricted-zone and work-zone polygon monitoring
-* [ ] Add event logging and alert history
-* [ ] Add web dashboard for real-time monitoring
-* [ ] Add edge deployment support for Jetson devices
-
----
-
 ## 📚 Sources / Technologies
 
 This project uses:
@@ -290,7 +278,6 @@ This project uses:
 * Python
 * OpenCV
 * Ultralytics YOLO
-* YOLO11s-Pose
 * PyTorch
 * Custom YOLO forklift detector
 
@@ -324,8 +311,8 @@ Check third-party model and library licenses separately before commercial deploy
 **Azimjon Akhtamov**
 AI Researcher / Computer Vision Developer
 
-GitHub: https://github.com/YOUR_USERNAME
-LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN
+GitHub: https://github.com/azimjaan21
+LinkedIn: https://www.linkedin.com/in/azimjaan21
 
 ---
 
