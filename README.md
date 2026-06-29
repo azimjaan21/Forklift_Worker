@@ -313,6 +313,7 @@ Check third-party model and library licenses separately before commercial deploy
 ## 👤 Author
 
 **Azimjon Akhtamov**
+
 AI Researcher / Computer Vision Developer
 
 GitHub: https://github.com/azimjaan21
